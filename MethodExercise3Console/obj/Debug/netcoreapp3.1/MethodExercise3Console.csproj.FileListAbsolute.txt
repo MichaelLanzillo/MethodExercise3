@@ -1,0 +1,13 @@
+C:\Users\lanbr\Desktop\Truecoders\MethodExercise3\MethodExercise3\MethodExercise3Console\bin\Debug\netcoreapp3.1\MethodExercise3Console.exe
+C:\Users\lanbr\Desktop\Truecoders\MethodExercise3\MethodExercise3\MethodExercise3Console\bin\Debug\netcoreapp3.1\MethodExercise3Console.deps.json
+C:\Users\lanbr\Desktop\Truecoders\MethodExercise3\MethodExercise3\MethodExercise3Console\bin\Debug\netcoreapp3.1\MethodExercise3Console.runtimeconfig.json
+C:\Users\lanbr\Desktop\Truecoders\MethodExercise3\MethodExercise3\MethodExercise3Console\bin\Debug\netcoreapp3.1\MethodExercise3Console.runtimeconfig.dev.json
+C:\Users\lanbr\Desktop\Truecoders\MethodExercise3\MethodExercise3\MethodExercise3Console\bin\Debug\netcoreapp3.1\MethodExercise3Console.dll
+C:\Users\lanbr\Desktop\Truecoders\MethodExercise3\MethodExercise3\MethodExercise3Console\bin\Debug\netcoreapp3.1\MethodExercise3Console.pdb
+C:\Users\lanbr\Desktop\Truecoders\MethodExercise3\MethodExercise3\MethodExercise3Console\obj\Debug\netcoreapp3.1\MethodExercise3Console.csprojAssemblyReference.cache
+C:\Users\lanbr\Desktop\Truecoders\MethodExercise3\MethodExercise3\MethodExercise3Console\obj\Debug\netcoreapp3.1\MethodExercise3Console.csproj.CoreCompileInputs.cache
+C:\Users\lanbr\Desktop\Truecoders\MethodExercise3\MethodExercise3\MethodExercise3Console\obj\Debug\netcoreapp3.1\MethodExercise3Console.AssemblyInfoInputs.cache
+C:\Users\lanbr\Desktop\Truecoders\MethodExercise3\MethodExercise3\MethodExercise3Console\obj\Debug\netcoreapp3.1\MethodExercise3Console.AssemblyInfo.cs
+C:\Users\lanbr\Desktop\Truecoders\MethodExercise3\MethodExercise3\MethodExercise3Console\obj\Debug\netcoreapp3.1\MethodExercise3Console.dll
+C:\Users\lanbr\Desktop\Truecoders\MethodExercise3\MethodExercise3\MethodExercise3Console\obj\Debug\netcoreapp3.1\MethodExercise3Console.pdb
+C:\Users\lanbr\Desktop\Truecoders\MethodExercise3\MethodExercise3\MethodExercise3Console\obj\Debug\netcoreapp3.1\MethodExercise3Console.genruntimeconfig.cache
